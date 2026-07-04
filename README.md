@@ -14,7 +14,16 @@ Brands need to know which social content is actually driving engagement, not jus
 4. Produced a report highlighting brand performance patterns for marketing decision-making
 
 ## 📊 Key Insight
-*[Add 1–2 sentences on what the analysis found — e.g. "Engagement peaked on a specific content type/day" or "X content category drove Y% of total engagement."]*
+- Instagram drove the highest total engagement (41.0M) and the most new follower growth (58.3K) of all four platforms, while YouTube consistently lagged behind on both metrics.
+- Facebook Image posts produced the strongest engagement of any platform/content-type combination.
+- Posts tagged **#TeslaCoInnovation** had the highest average clicks (157.0), despite not being the most frequently used hashtag.
+- **CybertruckLaunch** delivered the best engagement ROI (0.174) and drove the most follower growth, making it the clearest benchmark for future campaign investment.
+
+**Supporting metrics:**
+- **Engagement by platform:** Instagram 41.0M > Facebook 38.9M > Twitter 37.4M > YouTube 32.0M
+- **Best-performing hashtag:** #TeslaCoInnovation (157.0 avg. clicks) vs. #EVRevolution (152.9) and #FutureOfDriving (144.0)
+- **Best campaign ROI:** CybertruckLaunch (0.174) > FSDUpdate (0.170) > ModelYCampaign (0.166) > SustainabilityDrive (0.161)
+- **Follower growth by platform:** Instagram 58.3K > Facebook 50.9K > Twitter 53.5K > YouTube 47.5K
 
 ## 📁 Files in this Repo
 - `analysis.xlsx` — the full workbook with pivot tables and charts
